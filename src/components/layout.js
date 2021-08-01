@@ -29,8 +29,8 @@ export default ({ children }) => {
           Thank you for visiting{" "}
           <span role="img" aria-label="love">
             ❤️
-          </span>
-          {" "} Feedback welcome!
+          </span>{" "}
+          Feedback welcome!
         </p>
       </footer>
     </div>
