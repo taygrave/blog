@@ -1,7 +1,7 @@
 backend:
-  name: git-gateway
-  branch: main
+  name: github
   repo: taygrave/blog
+  branch: main
 
 media_folder: static/assets
 public_folder: /assets
