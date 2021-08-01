@@ -17,12 +17,12 @@ const ContactPage = ({ data: { site } }) => {
         <div
           className="post-thumbnail"
           style={{
-            backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`,
+            backgroundImage: `url('/assets/billy-huynh-W8KTS-mhFUE-unsplash.jpg')`,
             marginBottom: 0,
           }}
         >
           <h1 className="post-title">Get in Touch</h1>
-          <p>Let me help you kick start your next project &rarr;</p>
+          <p>Feedback? Questions? Comments? Requests? Other? &rarr;</p>
         </div>
         <div>
           <form
