@@ -258,6 +258,15 @@ a {
     font-weight: 700;
   }
 }
+.submitted {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  .homeButton {
+    margin: 12px 0;
+  }
+}
 .form-container {
   background-color: var(--contact-bg);
   padding: 32px;

@@ -9,6 +9,10 @@ A place to centralize my thoughts and stuffs. Currently served at [tayblog.fyi](
 - `gatsby build` build the gatsby project
 - `npm run format` lint, prettier style
 
+## Troubleshooting
+
+- Netflify Forms & React [example here](https://www.netlify.com/blog/2017/07/20/how-to-integrate-netlifys-form-handling-in-a-react-app/?_ga=2.36532192.1102101903.1627776710-28899527.1627776710) (scroll down to "Form Handling with Static Site Generators" section.)
+
 ---
 
 ## Credits
