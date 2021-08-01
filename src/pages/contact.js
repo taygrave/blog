@@ -18,7 +18,7 @@ const ContactPage = ({ data: { site } }) => {
           className="post-thumbnail"
           style={{
             backgroundImage: `url('/assets/billy-huynh-W8KTS-mhFUE-unsplash.jpg')`,
-            marginBottom: 0
+            marginBottom: 0,
           }}
         >
           <h1 className="post-title">Get in Touch</h1>
@@ -27,8 +27,9 @@ const ContactPage = ({ data: { site } }) => {
         <div>
           <form
             className="form-container"
-            action="https://sendmail.w3layouts.com/SubmitContactForm"
-            method="post"
+            data-netlify="true"
+            method="POST"
+            name="contact"
           >
             <div>
               <label htmlFor="w3lName">Name</label>
