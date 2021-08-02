@@ -43,7 +43,7 @@ body.dark {
   --text-secondary-color: rgba(255, 255, 255, 0.66);
   --site-header: var(--background);
   --card-bg: #0a1c29;
-  --card-bdr: #aed6d6;
+  --card-bdr: #ef6b18;
   --card-shadow: #020204;
   --btn-bg: var(--background);
   --btn-bdr: #d3d6e7;
@@ -260,13 +260,12 @@ a {
 .site-footer {
   text-align: center;
   margin: 90px 0 16px;
-  color: var(--btn-text-color);
+  color: var(--primary-color);
   a {
     font-weight: 700;
   }
 }
 .tiny {
-  color: var(--highlight-text-color);
   font-size: 8px;
 }
 .submitted {
