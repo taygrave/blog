@@ -32,6 +32,10 @@ export default ({ children }) => {
           </span>{" "}
           Feedback welcome!
         </p>
+        <p className="tiny">
+          All content and images are my own unless otherwise credited, please
+          ask for permission to use elsewhere.
+        </p>
       </footer>
     </div>
   );
