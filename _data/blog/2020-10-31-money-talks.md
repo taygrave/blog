@@ -15,4 +15,4 @@ metaDescription: The Lady Date Podcast w me on it
 
 Hosting your's-truly, this is my cousin Jess' podcast and I'm the guest! In it I give ALL my best negotiation tips and tricks. Give this a listen before we talk about your own negotiation strategies, then contact me afterwards for some counseling and practice!
 
-2020: <a href="https://podcasts.apple.com/us/podcast/ep-6-money-talks/id1524737023?i=1000496694789" target="_blank">Lady Date Podcast: Money Talks</a>
+2020: <a href="https://www.ladydatepod.com/episodes/money-talks" target="_blank">Lady Date Podcast: Money Talks</a>
