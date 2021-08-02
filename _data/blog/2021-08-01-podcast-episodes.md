@@ -25,7 +25,7 @@ metaDescription: Running list of great podcast episodes
 
 - _money, career, negotiating, women, empowerment_
 - Hosting your-truly, this is my cousin's podcast and I'm the guest! In it I give ALL my best negotiation tips and tricks. Give this a listen before we talk about your own negotiation strategies, then contact me afterwards for some counseling and practice!
-- 2020: <a href="https://podcasts.apple.com/us/podcast/ep-6-money-talks/id1524737023?i=1000496694789" target="_blank">Lady Date Podcast: Money Talks</a>
+- 2020: <a href="https://www.ladydatepod.com/episodes/money-talks" target="_blank">Lady Date Podcast: Money Talks</a>
 
 ### Race and White Privilege
 
