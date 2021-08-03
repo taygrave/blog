@@ -2,20 +2,19 @@
 template: BlogPost
 path: /good-grief-good-friend
 date: 2013-12-06T00:00:00.000Z
-title: Good Grief, Good Friend!
+title: 'Good Grief, Good Friend!'
 metaDescription: grief
 thumbnail: /assets/dad.jpg
 ---
+*My Dad died suddenly and unexpectedly from pneumonia in 2007, a few months before my college graduation. His tragic death is the worse thing that has ever happened to me, and I had an extremely painful time grieving for a long while. A few years later in 2013, I won [The Listserve](http://thelistserve.com/) lottery. The Listserve was a global mailing list where one random person a day wins the chance to write to a massive list of subscribers. Below is what I wrote, unedited.*
 
-_My Dad died suddenly and unexpectedly from pneumonia in 2007 months before my college graduation. It was the worse thing that ever happened to me, and I had an extremely painful time grieving for a long while. A few years later, in 2013 I won [The Listserve](http://thelistserve.com/) lottery. It was a mailing list where one random person a day wins a chance to write to a global list of subscribers. Given the chance to write a whole mass of unknown people (within a strict word limit), I knew exactly I wanted to say. Below is what I wrote, unedited._
+*Feel welcome to share this with others. If you are currently grieving and find this helpful, don’t feel shy sharing with those who'd like to support you – people do want to help, most just don’t know how.*
 
-_Feel welcome to share this with others; especially if you are currently grieving and find this helpful, don’t feel shy sharing with those who'd like to support you – people do want to help, most just don’t know how._
+- - -
 
----
+- - -
 
----
-
----
+- - -
 
 <br>
 
@@ -49,10 +48,10 @@ Do the little things for me. I need practical help. Whether I am accepting it or
 
 It takes time. There’s no correct process or timescale. For me, years have passed and I’m happy and joyful again. I’m forever grateful to the few really good friends who didn’t disappear once the funeral ended. For the rest of my life I’ll miss my dad; what I like best now is reminiscing with family and old friends about him. The stories help him not feel so permanently far away. But he is, he died, and there’s no use ignoring death or minimizing grief. Talk about it, be there, listen, reach out, give – don’t disappear. Love.
 
-_PS Jared, Rachel, Jesse – I can not say “Thank You” deeply enough for being truly above-and-beyond there for me in my darkest time of grief. You are excellent friends to be blessed with!_
+*PS Jared, Rachel, Jesse – I can not say “Thank You” deeply enough for being truly above-and-beyond there for me in my darkest time of grief. You are excellent friends to be blessed with!*
 
----
+- - -
 
----
+- - -
 
----
+- - -
