@@ -4,7 +4,7 @@ path: /edinburgh
 date: 2021-08-18T00:00:00.000Z
 title: "Edinburgh Recs"
 metaDescription: tourism, edinburgh, recommendations
-thumbnail: /assets/edinburgh1.jpg
+thumbnail: /assets/edinburgh2.JPG
 ---
 
 Edinburgh is absolutely enchanting. I'm so grateful I was able to go to grad school at the University of Edinburgh and have the opportunity to live there. I put together the following for you here: ‘My One Perfect Day’ itinerary, a list of more details about each stop, and other thoughts / recs, plus a link to my Google Map below pinpointing all the places listed here.
@@ -53,7 +53,7 @@ Edinburgh is called a festival city, so make sure you <a href="https://www.edinb
 - August: If you’re going to be there in August, (lodging etc. will probably be more expensive and the town more dense in general) do NOT miss an opportunity to experience the Fringe Festival! Seriously, you have to go to at least one production, or as many as you possibly can.
 - New Years / <a href="https://www.edinburghshogmanay.com/" target="_blank">Hogmanay</a>: Watch the procession and get tickets to the fireworks! (also if there around christmastime: the winter holiday German Market is soooo fucking charming, get a hot cup of mulled wine immediately to sip on while you wander around it.)
 
-#### Other Random but Notable Things to try:
+#### Other Random but Notable Things to Try / Google / Arrange
 
 - Haggis, pretty good actually!!
 - Scottish Dancing
@@ -61,9 +61,10 @@ Edinburgh is called a festival city, so make sure you <a href="https://www.edinb
 - Scottish Storytelling
 - English Breakfast (if you don’t have any chances elsewhere / Edinburgh is your only stop in the UK)
 - Whisky Tasting
+- Deep Fried Mars Bar / Deep Fried Everything
 - If visiting in August: <a href="https://www.edfringe.com/" target="_blank">THE FRINGE FESTIVAL</a> & <a href="https://highlandgames.com/festival-information/" target="_blank">THE HIGHLAND GAMES</a>
 - New Town - I don’t really know much about it. Great for shopping, go to Princes Street!
-- Personal Spots to Taylor: (see the Map above!) My old Apartment, Edinburgh Campus, Blackford Hill, King’s Buildings Campus, The Reverie (now closed, is home to <a href="https://www.southpour.co.uk/" target="_blank">another pub</a>), and <a href="​​https://www.revolution-bars.co.uk/bar/edinburgh" target="_blank">Revolution Bar</a> for late night dancing
+- Personal Spots to Taylor: (see the Map below) My old Apartment, Edinburgh Campus, Blackford Hill, King’s Buildings Campus, The Reverie (now closed, is home to <a href="https://www.southpour.co.uk/" target="_blank">another pub</a>).
 - Picnic in the Meadows
 - National Museum of Scotland: Dolly the Sheep If you are going here, do NOT miss <a href="https://www.nms.ac.uk/explore-our-collections/stories/natural-sciences/dolly-the-sheep/" target="_blank">Dolly the Sheep</a>! First ever cloned mammal from an adult cell, named after Dolly Parton because it was cloned from a mammary tissue
 - <a href="https://www.rbge.org.uk/visit/" target="_blank">The Royal Botanical Gardens</a>
