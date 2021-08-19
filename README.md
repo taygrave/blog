@@ -4,6 +4,12 @@ A place to centralize my thoughts and stuffs. Currently served at [tayblog.fyi](
 
 ## Documentation
 
+- ensure you have installed XCode on your machine
+- `npm i` IF cloning for the first time
+- `npm i -g gatsby` IF you do not yet have gatsby installed
+
+then
+
 - `gatsby develop` to run locally
 - `gatsby clean` to wipe the local gatsby env including built assets and cache (reset)
 - `gatsby build` build the gatsby project
