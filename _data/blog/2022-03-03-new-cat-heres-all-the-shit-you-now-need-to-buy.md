@@ -73,4 +73,4 @@ And unfortunately, yes, the number of litter boxes you really do need is n + 1, 
 
 
 
-*NOTE: For your convenience, I linked out all the exact products we use to Amazon so you can get more information about them. As an Amazon Associate I earn from qualifying purchases. But, I highly recommend you purchase these from your local shops if you are able to!*
+*NOTE: For your convenience, I linked out all the exact products we use to Amazon so you can get more information about them. As an Amazon Associate I earn from qualifying purchases. But, I highly recommend you purchase these from your local shops instead if you are able to!*
