@@ -51,7 +51,7 @@ As for boxes, we actually started with this fancy sifted set pictured below (usi
 
 <a href="https://www.amazon.com/Luuup-Litter-Box-Non-Stick-High-Sided/dp/B072FK9V1R?crid=FK75U2KI5KZP&keywords=sifting+litter+box&qid=1646336505&s=pet-supplies&sprefix=sifting+litter+box%2Cpets%2C130&sr=1-5&linkCode=li2&tag=tblogfyi22-20&linkId=32a4dbaf592bd232b5b5a2cbe91eaf7d&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B072FK9V1R&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tblogfyi22-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tblogfyi22-20&language=en_US&l=li2&o=1&a=B072FK9V1R" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-But... IT WAS A HUGE FUCKING MESS! I HATED cleaning it, doing the sifty sift was NOT as easy as advertised, and I had to hose down actual shit every couple months. Fuck that! SO, since I bought two of these sifty-sets - I had a total of six trays, which I combined into three pairs to make us three boxes total. Now, I line them with the plastic liners (linked below) and fill it with Feline Pine (linked below) and after a month or so - toss the whole bag and replace. It is SO much easier than that silly sifting business, but I already had these boxes and liked the 'spill guards' (the green toppers, I find they keep the plastic liners in place really well), so we made it work. The size and shape of these is good too. So find something similar and save yourself the hassle of falling for something smart-looking, go for simple with the plastic liners and pine litter.  
+But... IT WAS A HUGE FUCKING MESS! I HATED cleaning it, doing the sifty sift was NOT as easy as advertised, and I had to hose down actual shit every couple months. Fuck that! SO, since I bought two of these sifty-sets - I had a total of six trays, which I combined into three pairs to make us three boxes total. Now, I line them with the plastic liners (linked below) and fill it with Feline Pine (linked below) and after a month or so - toss the whole bag and replace. It is SO much easier than that silly sifting business, but I already had these boxes and liked the 'spill guards' (the green toppers, I find they keep the plastic liners in place really well), so we made it work. The size and shape of these is good too. So find something similar (wide, deep but not too deep) and save yourself the hassle of falling for something smart-looking, go for simple with the plastic liners and pine litter.  
 
 Feline Pine is a wood chip litter that is honestly the best litter we've ever tried, and we will use it forever. It absorbs the smell like no other and it easy to deal with. That plus a couple  catching mats (linked below)  and we have no disgusting dirty tracked litter through the house. 
 
@@ -63,6 +63,14 @@ And unfortunately, yes, the number of litter boxes you really do need is n + 1, 
 
 
 
-## Collars
 
-## Scratchers
+
+
+
+
+
+
+
+
+
+*NOTE: For your convenience, I linked out all the exact products we use to Amazon so you can get more information about them. As an Amazon Associate I earn from qualifying purchases. But, I highly recommend you purchase these from your local shops if you are able to!*
