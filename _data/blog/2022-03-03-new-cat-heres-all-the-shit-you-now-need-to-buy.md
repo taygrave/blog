@@ -41,7 +41,7 @@ Now I just set it to dose out the smallest portions several times a day. I think
 
 We had a problem with ants, so I measured and purchased [this wide and shallow tray](https://amzn.to/3HHlieF), filled it with water, then also bought this [3-pack of trays](https://amzn.to/3Mlp5ll) and placed one upside down and put the automatic feeder on top of that upside-down tray. This effectively created a moat-barrier that the ants will not cross / cannot infiltrate the feeder. (This is a little intense, something easier [like this](https://amzn.to/3Kf43mB) might do the trick too, lol, but oh well). I use the remaining two trays (since still using the divider) to catch the food - the sides are high enough that not much food spills out, and because they are stainless steel they don't give the Beans chin acne. 
 
-The bowl the feeder comes with is stainless steel too though so... especially if have don't have ants and have only one Bean, you could just use that and nevermind all the above, hehe.
+The bowl the feeder comes with is stainless steel too though so... especially if you don't have ants and have only one Bean, you could just use that and nevermind all the above, hehe.
 
 ## Litter
 
