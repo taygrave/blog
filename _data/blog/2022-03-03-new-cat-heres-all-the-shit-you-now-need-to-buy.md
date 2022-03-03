@@ -9,11 +9,7 @@ metaDescription: >-
 ---
 So you got a cat! Or better yet, two cats! Amazing, congratulations, I'm so happy for you and your new Beans, and how enriched your life will be now with your new little love(s). 
 
-
-
 So what kind of shit do you need? After years of trial and error, here's where me and my kittybeans are at - hopefully our trials can save you some time, money, and effort: 
-
-
 
 ## Eating
 
@@ -37,8 +33,22 @@ Food dishes: Make sure they are stainless steel to prevent chin acne! We are usi
 
 <a href="https://www.amazon.com/gp/product/B08MZQX8GL?ie=UTF8&psc=1&linkCode=li1&tag=tblogfyi22-20&linkId=16c7042749da20f1186ecee3504d73df&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08MZQX8GL&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tblogfyi22-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tblogfyi22-20&language=en_US&l=li1&o=1&a=B08MZQX8GL" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-
-
 ## Litter
 
-Ok, this one was more of a journey for us.
+Ok, this one was more of a journey for us. This section is WIP, but here's what I'm about to recommend as our now-perfected setup: 
+
+
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tblogfyi22-20&language=en_US&marketplace=amazon&region=US&placement=B001N3JEPK&asins=B001N3JEPK&linkId=d6979422e555caa09894e8656d0edac9&show_border=true&link_opens_in_new_window=true"></iframe>
+
+
+
+<a href="https://www.amazon.com/gp/product/B07NPHGL79?ie=UTF8&psc=1&linkCode=li2&tag=tblogfyi22-20&linkId=fd8f8956b70ea5bc55cdbe74a8f6a777&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07NPHGL79&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tblogfyi22-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tblogfyi22-20&language=en_US&l=li2&o=1&a=B07NPHGL79" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  <a href="https://www.amazon.com/gp/product/B07R9K77C6?ie=UTF8&psc=1&linkCode=li2&tag=tblogfyi22-20&linkId=36e96d3bfe56e2cbd4006743adc25ea1&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07R9K77C6&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tblogfyi22-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tblogfyi22-20&language=en_US&l=li2&o=1&a=B07R9K77C6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> <a href="https://www.amazon.com/gp/product/B001Q9EHIU?ie=UTF8&psc=1&linkCode=li2&tag=tblogfyi22-20&linkId=4bae77eebbaa9ad9e8bb46e104508537&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001Q9EHIU&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tblogfyi22-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tblogfyi22-20&language=en_US&l=li2&o=1&a=B001Q9EHIU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  <a href="https://www.amazon.com/gp/product/B01DUZZ5IS?ie=UTF8&psc=1&linkCode=li2&tag=tblogfyi22-20&linkId=2762b6bfe2b6f80429a92612ac464ceb&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01DUZZ5IS&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tblogfyi22-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tblogfyi22-20&language=en_US&l=li2&o=1&a=B01DUZZ5IS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+
+## Collars
+
+
+
+## Scratchers
